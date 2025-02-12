@@ -7,6 +7,6 @@ console.log(second);
 
 // Create a file
 writeFileSync(
-  "./content/result.txt",
+  "./content/resulto.txt",
   `Here is the result: ${first}, ${second}`
 );
